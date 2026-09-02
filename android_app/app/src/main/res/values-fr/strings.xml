@@ -181,7 +181,9 @@
     <string name="formula_bw_lee_song_kim_2001">Lee, Song et Kim (2001)</string>
     <string name="formula_lbm_boer_1984">Boer (1984)</string>
     <string name="formula_lbm_hume_1966">Hume (1966)</string>
-    <string name="formula_lbm_weight_minus_body_fat">Tour de taille - Masse grasse</string>
+    <string name="formula_lbm_weight_minus_body_fat">Poids − Masse grasse</string>
+    <string name="formula_bf_us_navy">U.S. Navy</string>
+
     <string name="formula_desc_off_short">Calcul non-automatique</string>
     <string name="formula_desc_off_long">Cette métrique n\'est pas auto-calculée. Vous pouvez saisir les valeurs manuellement.</string>
     <string name="bf_deurenberg_1991_short">Régression classique pour les adultes</string>
