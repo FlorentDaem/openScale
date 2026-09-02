@@ -26,7 +26,7 @@
     <string name="no_data_available">Pas de données disponibles.</string>
     <string name="no_measurements_found">Aucune mesure trouvée.</string>
     <string name="no_entries_found">Pas d\'entrées disponibles.</string>
-    <string name="route_title_overview">Aperçu</string>
+    <string name="route_title_overview">Vue d'ensemble</string>
     <string name="route_title_graph">Graphiques</string>
     <string name="route_title_table">Tableau</string>
     <string name="route_title_statistics">Statistiques</string>
