@@ -144,7 +144,7 @@
     <string name="measurement_type_caliper2">Étrier 2</string>
     <string name="measurement_type_caliper3">Étrier 3</string>
     <string name="measurement_type_fat_caliper">Étrier gras</string>
-    <string name="toast_invalid_number_format">Nombre non-valide pour %1$s : \'%2$s\'</string>
+    <string name="toast_invalid_number_format">Nombre invalide pour %1$s : \'%2$s\'</string>
     <string name="dialog_title_add_goal">Fixer l\'objectif : %1$s</string>
     <string name="info_no_targetable_types">Pas de type disponible pour définir les objectifs.</string>
     <string name="placeholder_select_type">Choisir un type</string>
