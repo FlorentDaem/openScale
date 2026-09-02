@@ -392,6 +392,7 @@
     <string name="status_disabled">Désactivé</string>
     <string name="status_axis_right">Déplacé vers l\'axe droit</string>
     <string name="status_axis_left">Déplacé vers l\'axe gauche</string>
+    
     <string name="fallback_device_name_saved_scale">Balance enregistrée</string>
     <string name="bluetooth_action_connecting_disconnecting_desc">Bluetooth en cours</string>
     <string name="menu_save_as_preferred">Enregistrer comme préféré</string>
@@ -555,7 +556,7 @@
     
     <string name="batch_update_status_report">%1$d : %2$s</string>
     <string name="dialog_title_confirm_generic">Confirmer %1$s ?</string>
-    <string name="dialog_text_confirm_generic_verb">Êtes-vous sûr de vouloir pour %2$s de %1$d item(s)  ?</string>
+    <string name="dialog_text_confirm_generic_verb">Êtes-vous sûr de vouloir %2$s %1$d objet(s) ?</string>
     <string name="action_pin">Épingler</string>
     <string name="action_unpin">Désépingler</string>
     <string name="action_enable">activer</string>
@@ -564,6 +565,7 @@
     <string name="action_move_to_right_axis">déplacer vers l\'axe droit</string>
     <string name="status_pinned">Épinglé</string>
     <string name="status_unpinned">Désépinglé</string>
+
     <string name="bluetooth_action_no_scale_saved_desc">Paramétrer la balance Bluetooth</string>
     <string name="snackbar_bluetooth_processing_with">En cours avec %1$s …</string>
     <string name="snackbar_bluetooth_attempting_connection">Tentative de connexion à %1$s …</string>
