@@ -665,7 +665,7 @@
     <string name="sync_app_open_action">Ouvrir</string>
     <string name="clear_button">Effacer</string>
     <string name="saved">Enregistré</string>
-    <string name="route_title_insights">Aperçu</string>
+    <string name="route_title_insights">Tendances</string>
     <string name="route_title_table_drilldown">Détails</string>
     <string name="calendar_week_abbrev">Sem.</string>
     <string name="user_added_successfully">Profil %1$s ajouté avec succès.</string>
