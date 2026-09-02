@@ -81,7 +81,7 @@
     <string name="height_value_cm">%.1f cm</string>
     <string name="user_settings_item_details_conditional">Age : %1$d, Genre : %2$s</string>
     <string name="user_settings_content_description_edit">Modifier les paramètres du profil</string>
-    <string name="app_logo_content_description">Logo App</string>
+    <string name="app_logo_content_description">Logo de l'App</string>
     <string name="user_settings_content_description_delete">Supprimer le profil</string>
     <string name="user_settings_content_description_add_user">Ajouter un novueau profil</string>
     <string name="user_detail_content_description_change_unit">Changer d\'unité</string>
