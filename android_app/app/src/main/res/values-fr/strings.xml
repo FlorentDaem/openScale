@@ -87,14 +87,14 @@
     <string name="user_detail_content_description_change_unit">Changer d\'unité</string>
     <string name="success_measurement_updated">Mesure mise à jour (%1$s)</string>
     <string name="success_measurement_saved">Mesure sauvegardée (%1$s)</string>
-    <string name="error_saving_measurement">La mesure n\'a pas pu être sauvegarder. Veuillez réessayer.</string>
+    <string name="error_saving_measurement">La mesure n\'a pas pu être sauvegardée. Veuillez réessayer.</string>
     <string name="success_measurement_deleted">Mesure supprimée (%1$s)</string>
-    <string name="error_deleting_measurement">La mesure n\'a pas pu être supprimer. Veuillez réessayer.</string>
+    <string name="error_deleting_measurement">La mesure n\'a pas pu être supprimée. Veuillez réessayer.</string>
     <string name="action_save_measurement">Sauvegarder la mesure</string>
     <string name="action_add_measurement">Ajouter une mesure</string>
     <string name="action_add_measurement_desc">Ajouter une nouvelle mesure</string>
-    <string name="action_edit_measurement_desc">Éditer le mesure à partir de %1$s</string>
-    <string name="action_delete_measurement_desc">Supprimer la mesure à partir de %1$s</string>
+    <string name="action_edit_measurement_desc">Éditer la mesure du %1$s</string>
+    <string name="action_delete_measurement_desc">Supprimer la mesure du %1$s</string>
     <string name="toast_duplicate_timestamp">Cet horodatage correspond à votre dernière mesure. Merci de choisir un horodatage différent.</string>
     <string name="no_measurements_title">Pas de mesure pour l\'instant</string>
     <string name="no_measurements_message">Ajouter votre première mesure pour démarrer le suivi de votre évolution.</string>
@@ -673,6 +673,8 @@
     <string name="action_undo">Annuler</string>
     <string name="cd_chart_handle_resize">Faites glisser pour redimensionner le graphique, ou appuyez dessus pour le réduire</string>
     <string name="cd_chart_handle_show">Appuyez pour afficher le graphique</string>
-    <string name="dialog_title_discard_changes">Annuler les modifications ?</string>
+    <string name="dialog_title_discard_changes">Abandonner les modifications ?</string>
     <string name="dialog_message_discard_changes">Vos modifications n\'ont pas été sauvegardées et seront perdues.</string>
+    <string name="action_discard">Abandonner</string>
+    <string name="action_keep_editing">Continuer à modifier</string>
 </resources>
