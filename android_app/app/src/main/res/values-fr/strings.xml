@@ -11,14 +11,14 @@
     <string name="dialog_ok">D\'accord</string>
     <string name="switch_on">Marche</string>
     <string name="switch_off">Arrêt</string>
-    <string name="open_link_content_description">Liason ouverte</string>
+    <string name="open_link_content_description">Ouvrir le lien</string>
     <string name="content_desc_warning_icon">Icône d\'alerte</string>
     <string name="content_desc_restore_icon">Icône de restauration</string>
     <string name="content_desc_information">Information</string>
-    <string name="content_desc_open_menu">Menu ouvert</string>
+    <string name="content_desc_open_menu">Ouvrir le menu</string>
     <string name="content_desc_back">Retour</string>
     <string name="content_desc_selected">Sélectionné</string>
-    <string name="derived_backfill_start">Calcul en cours des valeurs dérivées …</string>
+    <string name="derived_backfill_start">Calcul des valeurs dérivées …</string>
     <string name="derived_backfill_done">Valeurs dérivées actualisées avec succès.</string>
     <string name="error_generic">Une erreur s\'est produite.</string>
     <string name="error_loading_data">Le chargement des données a échoué.</string>
