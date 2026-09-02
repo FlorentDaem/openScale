@@ -162,11 +162,13 @@
     <string name="measurement_type_updated_unit_changed_no_values_converted">Type \'%1$s\' actualisé. Unité modifiée, mais aucune valeur existante ne nécessitait une conversion.</string>
     <string name="measurement_type_dialog_confirm_unit_change_title">Confirmer le changement d\'unité</string>
     <string name="measurement_type_dialog_confirm_unit_change_message">Changer l\'unité pour \'%1$s\' de %2$s à %3$s convertira toutes les données existantes. Cette action peut prendre du temps et ne pas être simple à annuler. Voulez-vous continuer ?</string>
+    
     <string name="formula_label_body_fat">Formule masse grasse</string>
     <string name="formula_label_body_water">Formule eau corporelle</string>
     <string name="formula_label_lbm">Formule masse maigre</string>
     <string name="formula_warning_title">Formule de calcul</string>
-    <string name="formula_warning_message">Cette métrique passe en lecture seule et est auto-calculée. Elle s\'actualise lorsque les valeurs changent. S\'applique aux nouvelles mesures et mesures éditées. Les données existantes restent inchangées.</string>
+    <string name="formula_warning_message">Cette métrique passe en lecture seule et est auto-calculée. Elle s\'actualise lorsque les valeurs de base changent. S\'applique aux nouvelles mesures et mesures éditées. Les données existantes restent inchangées.</string>
+    
     <string name="formula_off">Arrêt</string>
     <string name="formula_bf_deurenberg_1991">Deurenberg (1991)</string>
     <string name="formula_bf_deurenberg_1992">Deurenberg (1992)</string>
