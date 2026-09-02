@@ -113,8 +113,8 @@
     <string name="dialog_title_minute">Minute</string>
     <string name="label_date">Date</string>
     <string name="label_time">Horaire</string>
-    <string name="content_desc_increase_value">Croissance %1$s</string>
-    <string name="content_desc_decrease_value">Décroissance %1$s</string>
+    <string name="content_desc_increase_value">Augmentation %1$s</string>
+    <string name="content_desc_decrease_value">Diminution %1$s</string>
     <string name="content_desc_edit_value">Éditer %1$s</string>
     <string name="action_show_less_desc">Voir moins</string>
     <string name="action_show_more_desc">Voir plus</string>
