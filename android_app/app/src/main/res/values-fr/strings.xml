@@ -106,7 +106,7 @@
     <string name="dialog_title_edit_value">Éditer %1$s</string>
     <string name="dialog_title_change_value">Modifier %1$s</string>
     <string name="dialog_title_select_color">Choisir une couleur</string>
-    <string name="dialog_title_select_icon">Icône de sélection</string>
+    <string name="dialog_title_select_icon">Choisir une icône</string>
     <string name="dialog_title_input_value">Entrer une valeur</string>
     <string name="dialog_title_input_text">Entrer un texte</string>
     <string name="dialog_title_hour">Heure</string>
