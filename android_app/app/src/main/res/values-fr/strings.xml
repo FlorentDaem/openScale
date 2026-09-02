@@ -184,11 +184,12 @@
     <string name="formula_lbm_weight_minus_body_fat">Poids − Masse grasse</string>
     <string name="formula_bf_us_navy">U.S. Navy</string>
 
-    <string name="formula_desc_off_short">Calcul non-automatique</string>
+    <string name="formula_desc_off_short">Pas de calcul automatique</string>
     <string name="formula_desc_off_long">Cette métrique n\'est pas auto-calculée. Vous pouvez saisir les valeurs manuellement.</string>
     <string name="bf_deurenberg_1991_short">Régression classique pour les adultes</string>
-    <string name="bf_deurenberg_1991_long">Formule de population largement utilisée depuis 1991. Adaptée aux populations adultes en général. Peut être moins pertinentes pour les individus très maigre ou très musclés.</string>
-    <string name="bf_deurenberg_1992_short">Ajusté pour les ados et les adultes</string>
+    <string name="bf_deurenberg_1991_long">Formule de population largement utilisée datant de 1991. Adaptée aux populations adultes en général. Peut être moins pertinentes pour les individus très maigre ou très musclés.</string>
+    <string name="bf_deurenberg_1992_short">Ajusté pour les adolescents et les adultes</string>
+    
     <string name="measurement_type_bmr">Métabolisme de base</string>
     <string name="measurement_type_heart_rate">Fréquence cardiaque</string>
     <string name="measurement_type_impedance">Impédance (haute)</string>
@@ -270,10 +271,11 @@
     <string name="supported_label">Supporté</string>
     <string name="not_supported_label">Non supporté</string>
     <string name="content_desc_select_date">Sélectionner une date</string>
+
     <string name="bf_gallagher_2000_non_asian_short">Gallagher (non asiatique)</string>
     <string name="bf_gallagher_2000_non_asian_long">Modèle de référence de 2000 pour les populations non asiatiques. Niveau de référence utile ; la précision varie selon les types de corps.</string>
-    <string name="bf_gallagher_2000_asian_short">Gallagher (Asian)</string>
-    <string name="lbm_weight_minus_bf_short">Tour de taille − Graisse corporelle</string>
+    <string name="bf_gallagher_2000_asian_short">Gallagher (Asiatique)</string>
+    <string name="lbm_weight_minus_bf_short">Poids − Masse grasse</string>
     <string name="info_bluetooth_connection_error_scale_offline">Impossible de se connecter à la balance, assurez-vous qu’elle est allumée.</string>
     <string name="tolerance_desc">Écart de poids max. pour l\'assigner à un utilisateur automatiquement.</string>
     <string name="developer_section_title">Développeur</string>
@@ -370,8 +372,9 @@
     <string name="dialog_title_select_user_for_assignment">Choisir un profil pour assignation</string>
     <string name="snackbar_no_other_users_to_change_to">Pas d\'autre profil disponible pour modifier.</string>
     <string name="goal_target_date_label">Date cible de l\'objectif</string>
-    <string name="bf_deurenberg_1992_long">Variation adaptée aux jeunes profils. C\'est une estimation générale, les profils athlétiques ou atypiques peuvent dévier.</string>
-    <string name="bf_eddy_1976_short">Modèle sexospécifique initial</string>
+
+    <string name="bf_deurenberg_1992_long">Variation adaptée aux jeunes profils. C\'est une estimation polyvalente ; les profils athlétiques ou atypiques peuvent dévier.</string>
+    <string name="bf_eddy_1976_short">Ancien modèle sexospécifique</string>
     <string name="bf_eddy_1976_long">Ancienne régression avec des coefficients distincts pour les hommes et les femmes. Simple et rapide mais non taillé pour les populations singulières.</string>
     <string name="bf_gallagher_2000_asian_long">Modèle assistant adapté aux populations asiatiques. A utiliser lorsque plus en phase avec le contexte du profil.</string>
     <string name="bw_behnke_1963_short">Estimation ECT de Behnke</string>
@@ -382,8 +385,9 @@
     <string name="bw_hume_weyers_1971_long">Modèle ECT commun utilisant la taille et le poids avec des coefficients sexospécifiques.</string>
     <string name="bw_lee_song_kim_2001_short">Lee-Song-Kim</string>
     <string name="bw_lee_song_kim_2001_long">Plus récent ECT estimés sur des cohortes coréennes. À considérer si proche de ce type de population.</string>
-    <string name="lbm_boer_1984_short">Masse coporelle de Boer (LBM clinique)</string>
+    <string name="lbm_boer_1984_short">Masse maigre de Boer (LBM clinique)</string>
     <string name="lbm_boer_1984_long">Masse maigre estimée à partir de paramètres clinique populaire. Régressions sexospécifique à partir de la taille et du poids.</string>
+    
     <string name="status_enabled">Activé</string>
     <string name="status_disabled">Désactivé</string>
     <string name="status_axis_right">Déplacé vers l\'axe droit</string>
@@ -542,9 +546,13 @@
     <string name="settings_backup_location_selected_folder">Répertoire sélectionné</string>
     <string name="settings_backup_location_open_error_no_app">Aucune application trouvée pour ouvrir le répertoire.</string>
     <string name="settings_backup_location_selection_cancelled">Sélection du dossier annulée. Les sauvegarde automatiques sont désactivées.</string>
+
     <string name="lbm_hume_1966_short">Masse Maigre selon Hume</string>
-    <string name="lbm_hume_1966_long">Modèle Masse Maigre récent. Simple et largement utilisé ; pas taillé pour les corpulences athlétiques.</string>
+    <string name="lbm_hume_1966_long">Modèle Masse Maigre ancien. Simple et largement utilisé ; pas taillé pour les corpulences athlétiques.</string>
     <string name="lbm_weight_minus_bf_long">Calcule la masse maigre comme poids total moins masse grasse obtenue à partir de la formule de graisse corporelle choisie. La précision dépend de l\'estimation de la graisse corporelle.</string>
+    <string name="bf_us_navy_short">Méthode de la Marine des États-Unis</string>
+    <string name="bf_us_navy_long">Calcule le pourcentage de graisse corporelle en fonction du tour de taille, de cou et (pour les femmes) du tour de hanches selon le standard de la Marine des États-Unis.</string>
+    
     <string name="batch_update_status_report">%1$d : %2$s</string>
     <string name="dialog_title_confirm_generic">Confirmer %1$s ?</string>
     <string name="dialog_text_confirm_generic_verb">Êtes-vous sûr de vouloir pour %2$s de %1$d item(s)  ?</string>
