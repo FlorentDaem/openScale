@@ -310,6 +310,7 @@
     <string name="huawei_hagrid_secret_invalid">32 caractères hexadécimaux sont attendus</string>
     <string name="huawei_hagrid_secret_saved">Enregistré</string>
 
+    <!-- Connecteur Bluetooth -->
     <string name="bluetooth_connector_connected_to">Connecté à %1$s</string>
     <string name="bluetooth_connector_connection_failed">Échec de la connexion à %1$s: %2$s</string>
     <string name="bluetooth_connector_device_error">Erreur avec %1$s : %2$s</string>
@@ -318,24 +319,28 @@
     <string name="bluetooth_connector_measurement_user_missing">La mesure depuis %1$s ne peut pas être assigné à un profil.</string>
     <string name="bluetooth_connector_measurement_types_not_loaded">Erreur : Les types de mesure n\'ont pas été chargés.</string>
     <string name="bluetooth_connector_measurement_no_values">Pas de mesure valide reçu à partir de %1$s.</string>
-    <string name="bluetooth_connector_measurement_saved">La mesure (%1$.1f kg) à partir de %2$s a été sauvée.</string>
-    <string name="bluetooth_connector_measurement_save_error">Erreur enregistrement de la ma mesure à partir de %1$s.</string>
+    <string name="bluetooth_connector_measurement_saved">La mesure (%1$.1f kg) à partir de %2$s a été sauvegardée.</string>
+    <string name="bluetooth_connector_measurement_save_error">Erreur d'enregistrement de la mesure venant de %1$s.</string>
     <string name="bluetooth_connector_device_message">%1$s : %2$s</string>
     <string name="bluetooth_connector_listening_for_device">À l\'écoute de %1$s …</string>
-    <string name="bluetooth_connector_broadcast_complete">Mesure reçu depuis %1$s.</string>
-    <string name="permissions_required_icon_desc">Icône des permissions nécessaires</string>
+    <string name="bluetooth_connector_broadcast_complete">Mesure reçue depuis %1$s.</string>
+
+    <!-- Cartes d’autorisation et d’activation du Bluetooth -->
+    <string name="permissions_required_icon_desc">Icône des permissions requises</string>
     <string name="permissions_required_title">Permissions requises</string>
     <string name="permissions_required_message_bluetooth">Pour chercher les balances, nous avons besoin d\'accéder au Bluetooth.</string>
-    <string name="grant_permissions_button">Attribuer des permissions</string>
+    <string name="grant_permissions_button">Donner les permissions</string>
     <string name="bluetooth_disabled_icon_desc">Icône du Bluetooth désactivé</string>
     <string name="bluetooth_disabled_title">Bluetooth désactivé</string>
     <string name="bluetooth_disabled_message_enable_for_scan">Merci d\'activer le Bluetooth pour rechercher les balances.</string>
-    <string name="enable_bluetooth_button">Bluetooth actif</string>
+    <string name="enable_bluetooth_button">Activer le Bluetooth</string>
     <string name="error_icon_desc">Icône d\'erreur</string>
     <string name="compatibility_dialog_title">Note importante</string>
-    <string name="bluetooth_compatibility_disclaimer">openScale est un projet open-source, et je ne possède pas toutes les balances. Merci de noter que la compatibilité n\'est pas garantie dans tous les cas, d\'autant que les protocoles Bluetooth peuvent changer ou peu documentés.\n\nComme projet open-source, les propositions de code et les contributions pour améliore le support des balances sont les bienvenues !</string>
-    <string name="compatibility_dialog_confirm_button">Connaissance et enregistrement</string>
+    <string name="bluetooth_compatibility_disclaimer">openScale est un projet open-source, et je ne possède pas toutes les balances. Merci de noter que la compatibilité n\'est pas garantie dans tous les cas, d\'autant que les protocoles Bluetooth peuvent changer ou être peu documentés.\n\nEn tant que projet open-source, les propositions de code et les contributions pour améliorer le support des balances sont les bienvenues !</string>
+    <string name="compatibility_dialog_confirm_button">Accepter et enregistrer</string>
     <string name="go_to_project_website_button">Visiter le site web du projet</string>
+    
+    
     <string name="legacy_adapter_event_initializing">Processus d\'initialisation…</string>
     <string name="legacy_adapter_event_connection_lost">Connexion perdue</string>
     <string name="legacy_adapter_event_connection_disconnected">Connexion fermée</string>
