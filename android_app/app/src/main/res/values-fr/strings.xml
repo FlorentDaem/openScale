@@ -287,6 +287,29 @@
     <string name="danger_zone_title">Zone de danger</string>
     <string name="auto_connect_on_startup_title">Connexion automatique au démarrage</string>
     
+    <!-- Configuration de la balance (générique, affichée quand un gestionnaire déclare des champs de configuration) -->
+    <string name="scale_configuration_title">Configuration de la balance</string>
+    <string name="no_special_configuration_available">Aucune configuration spéciale supplémentaire disponible pour ce périphérique.</string>
+
+    <!-- Algorithme de composition corporelle de la balance Mi -->
+    <string name="mi_body_comp_algorithm_label">Algorithme de composition corporelle</string>
+    <string name="mi_algorithm_xiaomi">Xiaomi (application d’origine)</string>
+    <string name="mi_algorithm_bodymiscale_science">Scientifique</string>
+    <string name="mi_algorithm_description">Choisissez la manière dont la composition corporelle est calculée à partir de l’impédance. « Xiaomi » reproduit l’application Mi Fit / Zepp Life d’origine. « Scientifique » utilise des formules évaluées par des pairs (Siri, Pace, Wang, Schofield) et indique également les protéines et le métabolisme de base. S’applique aux nouvelles mesures effectuées avec cette balance.</string>
+
+    <!-- Configuration de la balance S400 -->
+    <string name="s400_bind_key_label">Clé de liaison BLE</string>
+    <string name="s400_bind_key_placeholder">Clé hexadécimale de 32 caractères</string>
+    <string name="s400_bind_key_description">La balance Xiaomi S400 nécessite une clé de liaison BLE pour le déchiffrement. Extrayez cette clé depuis Xiaomi Cloud à l’aide de l’outil Xiaomi Cloud Tokens Extractor.</string>
+    <string name="s400_bind_key_error">La clé de liaison doit comporter exactement 32 caractères hexadécimaux</string>
+    <string name="bt_s400_missing_bind_key">S400 : clé de liaison non configurée. Accédez aux paramètres Bluetooth pour saisir votre clé BLE.</string>
+
+    <!-- Configuration de la balance Huawei Hagrid -->
+    <string name="huawei_hagrid_secrets_title">Secrets WSP Huawei Hagrid</string>
+    <string name="huawei_hagrid_secrets_description">Configurez CAK, C1 et C2 avec 32 caractères hexadécimaux chacun. Les valeurs restent dans les paramètres de l’application propres au pilote.</string>
+    <string name="huawei_hagrid_secret_invalid">32 caractères hexadécimaux sont attendus</string>
+    <string name="huawei_hagrid_secret_saved">Enregistré</string>
+
     <string name="bluetooth_connector_connected_to">Connecté à %1$s</string>
     <string name="bluetooth_connector_connection_failed">Échec de la connexion à %1$s: %2$s</string>
     <string name="bluetooth_connector_device_error">Erreur avec %1$s : %2$s</string>
