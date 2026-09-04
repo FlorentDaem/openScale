@@ -281,9 +281,12 @@
     <string name="lbm_weight_minus_bf_short">Poids − Masse grasse</string>
     
     <string name="info_bluetooth_connection_error_scale_offline">Impossible de se connecter à la balance, assurez-vous qu’elle est allumée.</string>
+    
     <string name="tolerance_desc">Écart de poids max. pour l\'assigner à un utilisateur automatiquement.</string>
     <string name="developer_section_title">Développeur</string>
     <string name="danger_zone_title">Zone de danger</string>
+    <string name="auto_connect_on_startup_title">Connexion automatique au démarrage</string>
+    
     <string name="bluetooth_connector_connected_to">Connecté à %1$s</string>
     <string name="bluetooth_connector_connection_failed">Échec de la connexion à %1$s: %2$s</string>
     <string name="bluetooth_connector_device_error">Erreur avec %1$s : %2$s</string>
@@ -424,7 +427,7 @@
     <string name="cap_state_implemented">Implémentée : %1$s</string>
     <string name="cap_state_supported_only">Supporté (non implémenté) : %1$s</string>
     <string name="more_options_cd">Plus d\'options</string>
-    
+
     <string name="title_device_settings_for">Paramètres %1$s</string>
     <string name="bluetooth_tuning_title">Réglage Bluetooth</string>
     <string name="tuning_profile_label">Réglage profil</string>
@@ -441,6 +444,7 @@
     <string name="tuning_balanced">Équilibré</string>
     <string name="tuning_conservative">Conservateur</string>
     <string name="tuning_aggressive">Agressif</string>
+
     <string name="snackbar_items_user_changed_successfully">Le profil a changé %1$d items avec succès.</string>
     <string name="statistics_no_relevant_types">Aucun type de mesure pertinent disponible ou configuré pour les statistiques.</string>
     <string name="statistics_label_min">Min.</string>
