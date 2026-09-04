@@ -243,18 +243,20 @@
     <string name="measurement_type_added_successfully">Type de mesure \'%1$s\' ajouté avec succès.</string>
     <string name="measurement_type_added_error">Erreur de l\'ajout du type de mesure \'%1$s\'.</string>
     <string name="measurement_type_deleted_successfully">Type de mesure \'%1$s\' supprimé avec succès.</string>
+    
     <string name="bluetooth_action_disconnect_desc">Déconnecté de %1$s</string>
-    <string name="bluetooth_action_retry_connection_desc">Reconnexion avec %1$s</string>
+    <string name="bluetooth_action_retry_connection_desc">Réessayer de se connecter à %1$s</string>
     <string name="bluetooth_action_error_check_settings_desc">Erreur Bluetooth, vérifier les paramètres</string>
-    <string name="bluetooth_action_connect_to_desc">Connecté à %1$s</string>
+    <string name="bluetooth_action_connect_to_desc">Se connecter à %1$s</string>
     <string name="bluetooth_action_check_settings_desc">Vérifier les paramètres Bluetooth</string>
     <string name="snackbar_bluetooth_connecting_to">Connexion à %1$s…</string>
     <string name="snackbar_bluetooth_disconnecting_from">Déconnexion de %1$s…</string>
+    
     <string name="snackbar_bluetooth_no_scale_saved">Aucune balance Bluetooth enregistrée. Ajouter une balance dans les paramètres.</string>
     <string name="snackbar_bluetooth_retry_connection">Reconnexion à %1$s…</string>
-    <string name="snackbar_bluetooth_error_check_settings">Erreur Bluetooth. Vérifier les paramètres.</string>
-    <string name="snackbar_bluetooth_check_settings">Vérifier les paramètres Bluetooth.</string>
-    <string name="bluetooth_enable_for_scan">Activer le Bluetooth pour démarrer la recherche.</string>
+    <string name="snackbar_bluetooth_error_check_settings">Erreur Bluetooth. Veuillez vérifier les paramètres.</string>
+    <string name="snackbar_bluetooth_check_settings">Veuillez vérifier les paramètres Bluetooth.</string>
+    <string name="bluetooth_enable_for_scan">Veuillez activer le Bluetooth pour démarrer la recherche.</string>
     <string name="bluetooth_permissions_required_for_scan">Des permissions Bluetooth sont requises pour la recherche.</string>
     <string name="bluetooth_enabled_permissions_missing">Bluetooth actif, mais des permissions sont manquantes.</string>
     <string name="bluetooth_must_be_enabled_for_scan">Le Bluetooth doit être actif pour la recherche de balances.</string>
@@ -270,12 +272,14 @@
     <string name="not_supported_icon_desc">Périphérique non supporté</string>
     <string name="supported_label">Supporté</string>
     <string name="not_supported_label">Non supporté</string>
+
     <string name="content_desc_select_date">Sélectionner une date</string>
 
     <string name="bf_gallagher_2000_non_asian_short">Gallagher (non asiatique)</string>
     <string name="bf_gallagher_2000_non_asian_long">Modèle de référence de 2000 pour les populations non asiatiques. Niveau de référence utile ; la précision varie selon les types de corps.</string>
     <string name="bf_gallagher_2000_asian_short">Gallagher (Asiatique)</string>
     <string name="lbm_weight_minus_bf_short">Poids − Masse grasse</string>
+    
     <string name="info_bluetooth_connection_error_scale_offline">Impossible de se connecter à la balance, assurez-vous qu’elle est allumée.</string>
     <string name="tolerance_desc">Écart de poids max. pour l\'assigner à un utilisateur automatiquement.</string>
     <string name="developer_section_title">Développeur</string>
@@ -392,9 +396,10 @@
     <string name="status_disabled">Désactivé</string>
     <string name="status_axis_right">Déplacé vers l\'axe droit</string>
     <string name="status_axis_left">Déplacé vers l\'axe gauche</string>
-    
+
     <string name="fallback_device_name_saved_scale">Balance enregistrée</string>
     <string name="bluetooth_action_connecting_disconnecting_desc">Bluetooth en cours</string>
+    
     <string name="menu_save_as_preferred">Enregistrer comme préféré</string>
     <string name="menu_save_as_developer">Enregistrer en mode développeur</string>
     <string name="snackbar_saved_device_removed">Appareil enregistré supprimé.</string>
@@ -402,6 +407,12 @@
     <string name="snackbar_developer_for_device_enable_logs">Mode développeur activé pour cet appareil. Merci d\'activer le fichier journal : Paramètres → Général → Activer le fichier journal.</string>
     <string name="developer_banner_active">Mode développeur activé — Aucune mesure ne sera sauvegardée.</string>
     <string name="developer_banner_enable_logs_hint">Merci d\'activer le fichier journal : Paramètres → Général → Activer le fichier journal.</string>
+    <string name="developer_mode_dialog_title">Activer le mode développeur ?</string>
+    <string name="developer_mode_dialog_message">openScale va seulement enregistrer le traffic Bluetooth de %1$s pour les diagnostics. Du moment que le mode développeur est actif, aucune mesure n\'est sauvegardée. Vous pouvez le désactiver à nouveau sur l\'écran Bluetooth ou dans les paramètres de l\'appareil.</string>
+    <string name="developer_mode_dialog_replaces">%1$s devient votre balance enregistrée et remplace %2$s.</string>
+    <string name="developer_mode_dialog_confirm_button">Activer</string>
+    <string name="developer_mode_disable_action">Désactiver</string>
+    <string name="developer_mode_active_icon_desc">Le mode développeur est actif</string>
     <string name="capabilities_header">Capacités</string>
     <string name="cap_body_composition">Composition corporelle</string>
     <string name="cap_time_sync">Synchro temporelle</string>
@@ -413,6 +424,7 @@
     <string name="cap_state_implemented">Implémentée : %1$s</string>
     <string name="cap_state_supported_only">Supporté (non implémenté) : %1$s</string>
     <string name="more_options_cd">Plus d\'options</string>
+    
     <string name="title_device_settings_for">Paramètres %1$s</string>
     <string name="bluetooth_tuning_title">Réglage Bluetooth</string>
     <string name="tuning_profile_label">Réglage profil</string>
@@ -567,10 +579,13 @@
     <string name="status_unpinned">Désépinglé</string>
 
     <string name="bluetooth_action_no_scale_saved_desc">Paramétrer la balance Bluetooth</string>
+    
     <string name="snackbar_bluetooth_processing_with">En cours avec %1$s …</string>
+    
     <string name="snackbar_bluetooth_attempting_connection">Tentative de connexion à %1$s …</string>
     <string name="search_for_scales_button_desc">Bouton de recherche des balances</string>
     <string name="saved_scale_icon_desc">Indicateur de balance enregistrée</string>
+    
     <string name="rssi_format">%1$d dBm</string>
     <string name="settings_backup_location_select_action">Choisir une localisation de sauvegarde</string>
     <string name="settings_backup_location_open_error">Impossible d\'ouvrir la localisation de la sauvegarde.</string>
